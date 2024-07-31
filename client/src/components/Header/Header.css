@@ -1,0 +1,38 @@
+.website-name{
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.header-main-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 10px;
+    background-color: black;
+    color: white;
+}
+.nav-links{
+    color: black;
+    background-color: #1ed760;
+    margin: 0px 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.nav-links:hover{
+    background-color: #24ed6b;
+}
+
+.header-links{
+    color: white;
+    margin: 0px 8px;
+}
+.header-icons{
+    font-size: 28px;
+}
+.header-right-div{
+    display: flex;
+    align-items: center;
+}
